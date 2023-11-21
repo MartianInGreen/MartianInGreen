@@ -1,6 +1,5 @@
 ### Hellu :>
 
-I'm Hannah. An 18 year old hobby programmer from Germany.
+I'm Hannah. An 19 year old hobby programmer from Germany.
 
-- Pronouns: She/Her
-- Primary OS: GNU/Linux (Arch+Gnome)
+- Pronouns: She/Her & They/Them

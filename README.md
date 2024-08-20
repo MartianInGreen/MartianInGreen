@@ -1,3 +1,3 @@
 ### Hellu :>
 
-I'm Hannah. An 2 year old hobby developer from Germany currently studying at the KIT.
+I'm Hannah (She/her). A 20 year old hobby developer from Germany currently studying at the KIT.

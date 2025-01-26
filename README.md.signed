@@ -5,12 +5,10 @@ Hash: SHA512
 
 I'm **Hannah (She/Her)**, a **20-year-old** hobby developer from **Germany**, currently studying **Mechatronics and Information Technology at KIT**. Passionate about **spaceflight, future technology, and open-source projects**.
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=martianingreen&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=martianingreen&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages"/>
-</p>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img width="450" src="https://github-readme-stats.vercel.app/api?username=martianingreen&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="GitHub Stats"/>
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=martianingreen&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages"/>
+</div>
 
 - ---
 
@@ -50,8 +48,8 @@ If you find my work useful and want to support me, you can donate via cryptocurr
 - - **Monero:** `49LvvpveLZgePt4Fkj56wbSukqUobEC7RTKjM8z7oJiF8shf8u6y6aSLARRpEELXvTQcWSFXTX4wyetyU4avrCW1BLtxNBh`
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQQmBXa63k0WsKP5/tbvvvkhSZ2OIAUCZ5aIuwAKCRDvvvkhSZ2O
-ICCSAPsHI3Fux7C2qEwzTBTvraGoWTLo/k2xn+6fqhfjBtmbPQD/f8TIvRzFbOhT
-8tf4PSnIhlquqWy61AoeZX0jqXN/Kgg=
-=u+0y
+iHUEARYKAB0WIQQmBXa63k0WsKP5/tbvvvkhSZ2OIAUCZ5aKcAAKCRDvvvkhSZ2O
+IBmdAP4081XjfW7jqqdqnlupGhtLoke/Jtjs4GU8TYEYGNC07QD/SI9lKUy/Emjj
+70HT0rdcegLd1Oy8LAE48BIdFO5UPg0=
+=WzzX
 -----END PGP SIGNATURE-----

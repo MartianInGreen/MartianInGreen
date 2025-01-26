@@ -34,7 +34,7 @@ I'm **Hannah (She/Her)**, a **20-year-old** hobby developer from **Germany**, cu
 
 - 📜 **View my GPG Keys:** [Up-to-date Gist](https://url.rennersh.de/pgp-keys?github)
 - 🔏 Verify this repository:
-  - 📄 [SIGNED-README.txt](https://github.com/MartianInGreen/MartianInGreen/blob/main/SIGNED-README.txt)
+  - 📄 [SIGNED-README.txt](https://github.com/MartianInGreen/MartianInGreen/blob/main/README.md.signed)
   - 📝 [README.md.sig](https://github.com/MartianInGreen/MartianInGreen/blob/main/README.md.sig)
 
 ---

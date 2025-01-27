@@ -45,6 +45,6 @@ I'm **Hannah (She/Her)**, a **20-year-old** hobby developer from **Germany**, cu
 If you find my work useful and want to support me, you can donate via cryptocurrency:
 
 - **General:** [Trocador.app Donation Link](https://trocador.app/anonpay?ticker_to=eth&network_to=ERC20&address=0x9fa5b543599b32bfe5F534EC3473795b7a3130A5&ref=sqKNYGZbRl&direct=True&name=MartianInGreen)
-- **Bitcoin:** `bc1qx85ll6c0pdf2cxqf8afaml89l4hfntsade7cty` (BTC-Cash: `bc1qx85ll6c0pdf2cxqf8afaml89l4hfntsade7cty`)  
+- **Bitcoin:** `bc1qx85ll6c0pdf2cxqf8afaml89l4hfntsade7cty` (BTC-Cash: `bitcoincash:qz04as7atxererjv5djsp5cgxrd2w9s8w5pexl8z0t`)  
 - **Etherium:** `0x9fa5b543599b32bfe5F534EC3473795b7a3130A5`
 - **Monero:** `49fLdtTRfoCjM8wadMx2Q557Bpk1rNzPm3THfaX1yWECJsfNuqHMiVMLVb8oM3GjohMVURvLKwdnBENeSEV9uAzt6BjXywn`

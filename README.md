@@ -26,7 +26,7 @@ Part time Working Student in Full-Stack Development with Go & Next.js and Rasper
   <a href="https://rennersh.de" target="_blank">
     <img src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
   </a>
-  <a href="https://rennersh.de/static/obsidian/encyclopedia/landing-page.html" target="_blank">
+  <a href="https://rennersh.de/blog" target="_blank">
     <img src="https://img.shields.io/badge/Blog-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white" alt="Blog">
   </a>
 </p>

@@ -26,6 +26,8 @@ Part time Working Student in Full-Stack Development with Go & Next.js and Rasper
   <img width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original-wordmark.svg" height="40" alt="nixos logo" />        
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
@@ -72,6 +74,7 @@ Part time Working Student in Full-Stack Development with Go & Next.js and Rasper
 ## 🔑 Security & Verification
 
 - 📜 **View my GPG Keys:** [Up-to-date Gist](http://zip.rennersh.de/go/PGPKeys)
+- 💰 **Signed Crypto Adresses:** [Signed Adresses](http://zip.rennersh.de/go/crypto-signed) 
 
 ---
 

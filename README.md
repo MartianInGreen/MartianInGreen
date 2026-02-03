@@ -71,13 +71,6 @@ Part time Working Student in Full-Stack Development with Go & Next.js and Rasper
 
 ---
 
-## 🔑 Security & Verification
-
-- 📜 **View my GPG Keys:** [Up-to-date Gist](http://zip.rennersh.de/go/PGPKeys)
-- 💰 **Signed Crypto Adresses:** [Signed Adresses](http://zip.rennersh.de/go/crypto-signed) 
-
----
-
 ## ☕ Buy Me a Coffee
 
 If you find my work useful and want to support me, you can donate via cryptocurrency:

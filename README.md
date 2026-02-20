@@ -4,10 +4,12 @@ I'm **Hannah (She/Her)**, a **21-year-old** hobby developer from **Germany**, cu
 
 Part time Working Student in Full-Stack Development with Go & Next.js and Rasperry Pi Project Development.
 
+<!--
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img width="450" src="https://github-readme-stats.vercel.app/api?username=martianingreen&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="GitHub Stats"/>
   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=martianingreen&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages"/>
 </div>
+-->
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />

@@ -77,9 +77,4 @@ Part time Working Student in Full-Stack Development with Go & Next.js and Rasper
 
 ## ☕ Buy Me a Coffee
 
-If you find my work useful and want to support me, you can donate via cryptocurrency:
-
-- **General:** [Trocador.app Donation Link](https://trocador.app/anonpay?ticker_to=eth&network_to=ERC20&address=0x9fa5b543599b32bfe5F534EC3473795b7a3130A5&ref=sqKNYGZbRl&direct=True&name=MartianInGreen)
-- **Bitcoin:** `bc1qx85ll6c0pdf2cxqf8afaml89l4hfntsade7cty` (BTC-Cash: `bitcoincash:qz04as7atxererjv5djsp5cgxrd2w9s8w5pexl8z0t`)  
-- **Etherium:** `0x9fa5b543599b32bfe5F534EC3473795b7a3130A5`
-- **Monero:** `49fLdtTRfoCjM8wadMx2Q557Bpk1rNzPm3THfaX1yWECJsfNuqHMiVMLVb8oM3GjohMVURvLKwdnBENeSEV9uAzt6BjXywn`
+If you find my work useful and want to support me, you can donate via a variety of crypto currencies using [a Trocador donation link.](https://trocador.app/anonpay/?ticker_to=xmr&network_to=Mainnet&address=85ziQXFpA3MJrqmHTj3qFT6CTcA7RmaqD11qgTggCEgPV8ejCQ7mTd3FgHwyFNASRAeGphEx7uQZCKDxf34sqq1ZS9Nv7sZ&donation=True&name=MartianInGreen&description=Thanks+for+the+donation+%3A%29&email=donations@rennersh.de&bgcolor=00000000)

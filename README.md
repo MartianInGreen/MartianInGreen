@@ -2,6 +2,8 @@
 
 I'm **Hannah (She/Her)**, a **21-year-old** hobby developer from **Germany**, currently studying **Mechatronics and Information Technology at [KIT](https://www.kit.edu/)**. Passionate about **spaceflight, future technology, and open-source projects**.
 
+I’m interested in humane human-machine integration, robotics, and defensive technology that helps people stay capable in a rapidly changing world. I care about building systems that make powerful technology safer, more understandable, and more empowering; expanding human agency rather than replacing it.
+
 Part time Working Student in Full-Stack Development with Go & Next.js and Rasperry Pi Project Development.
 
 <!--

@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hannah!
 
-I'm **Hannah (She/Her)**, a **21-year-old** hobby developer from **Germany**, currently studying **Mechatronics and Information Technology at [<img src="https://p.kagi.com/proxy/Logo_KIT.svg?c=9cn5Kxse4yD05EJkf6QML9dK4clUbdQ9Oq4d5gDoyHCT7W6EguR-Gy7e-iRDROBE5EFofk8O9Va_tTgEIa3OW2_F4H7Vn70wOv6oC4oU9uo%3D" height="12" /> KIT](https://www.kit.edu)**. Passionate about **spaceflight, future technology, and open-source projects**.
+I'm **Hannah (She/Her)**, a **22-year-old** hobby developer from **Germany**, currently studying **Mechatronics and Information Technology at [<img src="https://p.kagi.com/proxy/Logo_KIT.svg?c=9cn5Kxse4yD05EJkf6QML9dK4clUbdQ9Oq4d5gDoyHCT7W6EguR-Gy7e-iRDROBE5EFofk8O9Va_tTgEIa3OW2_F4H7Vn70wOv6oC4oU9uo%3D" height="12" /> KIT](https://www.kit.edu)**. Passionate about **spaceflight, future technology, and open-source projects**.
 
 I’m interested in humane human-machine integration, robotics, and defensive technology that helps people stay capable in a rapidly changing world. I care about building systems that make powerful technology safer, more understandable, and more empowering; expanding human agency rather than replacing it.
 

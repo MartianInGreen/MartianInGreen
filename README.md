@@ -55,6 +55,18 @@ Part time Working Student in low level embedded C development for (rasperry pi) 
 
 ---
 
+## 🧰 Projects
+
+As you can see on my profile, I've built quite an array of sometimes very random stuff. A few projects that I am still actively working on or have some other significance to me are:
+
+- [Noctalia OCR](https://github.com/MartianInGreen/noctalia-screenshot-ocr): A good OCR widget for my toolbar, a very simple tool that I use daily.
+- [Linux Cloudreve Sync](https://github.com/MartianInGreen/Linux-Cloudreve-Sync): Proper Sync solution for Cloudreve on Linux, actively working on it currently.
+- [x6h Printer Drivers](https://github.com/MartianInGreen/x6h-rfcomm-cups): Reverse engineered drivers (and a small printing tool) for use with cheap Thermal printers commonly found for under 10€.
+- [Illias Download Companion](https://github.com/MartianInGreen/Illias-Download-Companion): Illias is a university course content software, this little firefox extention uses an already exiting tool to easily download an entire course. 
+- [SMART](https://github.com/MartianInGreen/OpenWebUI-Tools): Back when the first reasoning models came out (OpenAI o1) I wanted to see if non reasoning models could achive similar performance with harnesses and agentic structures. They could, at least as far as I could tell.  
+
+---
+
 ## 🌍 Connect with Me
 
 <p align="center">

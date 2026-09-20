@@ -91,4 +91,4 @@ As you can see on my profile, I've built quite an array of sometimes very random
 
 ## ☕ Buy Me a Coffee
 
-If you find my work useful and want to support me, you can donate to me using crypto [here.](https://trocador.app/anonpay/?ticker_to=xmr&network_to=Mainnet&address=85ziQXFpA3MJrqmHTj3qFT6CTcA7RmaqD11qgTggCEgPV8ejCQ7mTd3FgHwyFNASRAeGphEx7uQZCKDxf34sqq1ZS9Nv7sZ&donation=True&name=MartianInGreen&description=Thanks+for+the+donation+%3A%29&email=donations@rennersh.de&bgcolor=00000000)
+I don't accept financial donations due to a bit of excessive bureaucracy here in Germany, you can just star my Repo's if you've found them useful :) 

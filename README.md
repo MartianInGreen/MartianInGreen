@@ -4,7 +4,7 @@ I'm **Hannah (She/Her)**, a **22-year-old** hobby developer from **Germany**, cu
 
 I’m interested in humane human-machine integration, robotics, and defensive technology that helps people stay capable in a rapidly changing world. I care about building systems that make powerful technology safer, more understandable, and more empowering; expanding human agency rather than replacing it.
 
-Part time Working Student in low level embedded C development for (rasperry pi) microcontrollers. 
+Part time Working Student in low level embedded C development for (rasperry pi) microcontrollers as well as PCB design and prototyping. 
 
 <!--
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
